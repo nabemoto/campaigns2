@@ -16,6 +16,7 @@ gem "browserify-rails"
 gem 'react-rails'
 gem 'draper'
 gem "paperclip"
+gem 'bootstrap-sass'
 
 
 
